@@ -8,13 +8,15 @@ Below are the components:
 1. VPC
 2. Public subnet for frontend
 3. Private Subnet for backend and DB instances
-4. ALB
-5. NAT Gateway
-6. Internet Gateway
-7. Security Groups
-8. NACL
-9. R53
-10. IAM
+4. EC2 instances for frontend and backend servers
+5. RDS instance
+6. ALB
+7. NAT Gateway
+8. Internet Gateway
+9. Security Groups
+10. NACL
+11. R53
+12. IAM
 
 
 ## Directory structure:
